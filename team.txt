@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 Autumn
+Ommar Chaudhry
 Gregory
+madison
 
-=======
-Gregory
-
-Madison
-
->>>>>>> 40d7c59d7ba29229a2a6a6a7df00555cb4a138f6
